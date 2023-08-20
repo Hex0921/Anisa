@@ -1,0 +1,7 @@
+aiohttp==3.8.3
+nest-asyncio==1.5.7
+openpyxl==3.0.10
+pandas==1.5.3
+Pillow==9.4.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1
